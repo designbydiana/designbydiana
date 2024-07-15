@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @designbydiana
 - 👀 I’m interested in ...coding, art, excercise, fresh air, kids, dogs and cats...living together..:-)! 
-- 🌱 I’m currently learning ...html and css with freecodecamp.org
+- 🌱 I’m currently learning ...html and css with freecodecamp.org and will soon be a front end coder! She codes!
 - 💞️ I’m looking to collaborate on ...any front end beginner work that needs done!
 - 📫 How to reach me ...here or designbydiana@gmail.com
 - 😄 Pronouns: ... she, her, me, you , them...:-)!
